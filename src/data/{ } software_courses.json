@@ -1,0 +1,63 @@
+{
+    "courses": [
+        {
+            "id":1,
+            "title":"Web Development",
+            "slug":"webdevelopment-fundamentals",
+            "description":"Learn the basic of webdevelopment with our comprehensive beginner's course.",
+            "price": 99.99,
+            "instructor":"John Doe",
+            "isFeatured":true,
+            "image":"/courses/web.jpg"
+
+        },
+
+        {
+            "id":2,
+            "title":"Data Structure and Alorithem",
+            "slug":"datastructure-fundamentals",
+            "description":"Learn the basic of dsa with our comprehensive beginner's course.",
+            "price": 99.99,
+            "instructor":"Rohan Doer",
+            "isFeatured":true,
+            "image":"/courses/dsa.png"
+
+        },
+
+        {
+            "id":3,
+            "title":" search enginee optimization",
+            "slug":"serchengine-fundamentals",
+            "description":"Learn the basic of serchengine with our comprehensive beginner's course.",
+            "price": 99.99,
+            "instructor":"clrk Doe",
+            "isFeatured":true,
+            "image":"/courses/sar.jpg"
+
+        },
+
+        {
+            "id":4,
+            "title":"ux/ui Development",
+            "slug":"ux/uidevelopment-fundamentals",
+            "description":"Learn the basic of ux/uidevelopment with our comprehensive beginner's course.",
+            "price": 99.99,
+            "instructor":"John Doe",
+            "isFeatured":true,
+            "image":"/courses/ux.jpg"
+
+        },
+
+        {
+            "id":5,
+            "title":"game Development",
+            "slug":"gamedevelopment-fundamentals",
+            "description":"Learn the basic of gamedevelopment with our comprehensive beginner's course.",
+            "price": 99.99,
+            "instructor":"John Doe",
+            "isFeatured":true,
+            "image":"/courses/game.jpg"
+
+        }
+    ]
+}
